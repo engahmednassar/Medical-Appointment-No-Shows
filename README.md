@@ -23,5 +23,4 @@ I have looked into the dataset and managed a few problems like unifying names, r
 For details see analysis documentation [Jupyter Notebook](https://github.com/engahmednassar/Medical-Appointment-No-Shows/blob/main/No-show-appointments.ipynb) or [HTML](https://raw.githubusercontent.com/engahmednassar/Medical-Appointment-No-Shows/main/No-show-appointments.html?token=GHSAT0AAAAAABTEMM2QWDQ5SNZ4NCIC67UQYS76RXQ).
 
 ## Tools
-Python, libraries: numpy, pandas, matplotlib, seaborn, warnings
-Jupyter Lab
+Python, libraries: numpy, pandas, matplotlib, seaborn
